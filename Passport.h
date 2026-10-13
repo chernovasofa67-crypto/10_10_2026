@@ -6,8 +6,6 @@
 #define INC_10_10_2026_PASSPORT_H
 
 
-
-
 #include <string>
 
 class Passport {
